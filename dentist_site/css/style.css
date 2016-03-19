@@ -81,7 +81,7 @@ video#bgvid {
 	width: auto;
 	height: auto;
 	z-index: -100;
-	background: #000 url('../img/placeholder/video/sample-video.jpg') no-repeat;
+	background: #000 url('../img/placeholder/video/5k_run1-min.jpg') no-repeat;
 	background-size: cover;
 }
 
