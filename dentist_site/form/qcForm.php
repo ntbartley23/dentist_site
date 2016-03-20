@@ -1,6 +1,6 @@
 <?php
 // Replace your@email.com 
-$mailTo = 'your@email.com';
+$mailTo = 'snda.uk@gmail.com';
 
 if ($_POST['formtype'] == 'ticket') {
 	$subject = ('Ticket Form').' [ '.$_SERVER["HTTP_HOST"].' ] ';
