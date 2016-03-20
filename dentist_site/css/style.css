@@ -826,6 +826,12 @@ header.qcSchDay span {
     color: #777;
     font: 300 16px/30px "Raleway", Helvetica,Arial,sans-serif;
 }
+
+table {
+    border-right: #777 1px solid;
+    border-right: #777 1px solid;
+
+}
 .qcPricing footer a {
     display: block;
     color: #ff952e;
