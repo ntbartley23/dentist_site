@@ -107,9 +107,9 @@ $(".qcScheduleList").owlCarousel({
 
 // --- SPONSORS -- //
 $(".qcSposnsorList").owlCarousel({
-	items : 5, //10 items above 1000px browser width
-	itemsDesktop : [1080,3], //5 items between 1000px and 901px
-	itemsDesktopSmall : [900,3], // betweem 900px and 601px
+	items : 6, //10 items above 1000px browser width
+	itemsDesktop : [1080,6], //5 items between 1000px and 901px
+	itemsDesktopSmall : [900,6], // betweem 900px and 601px
 	itemsTablet: [600,1], //2 items between 600 and 0
 	itemsMobile : [600,1], // itemsMobile disabled - inherit from itemsTablet option
 	navigation: true,
